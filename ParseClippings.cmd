@@ -1,0 +1,1 @@
+C:\Soft\Python27\python.exe  generateExtractsFile.py "My Clippings.txt" >grouped.xml
