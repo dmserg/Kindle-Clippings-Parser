@@ -36,9 +36,10 @@ Icon
 .Trashes
 
 # project specific
-*.txt
+My Clippings.txt
 *.xml
 *.pyc
 *.suo
 *.pyproj
 *.sln
+*.iml
